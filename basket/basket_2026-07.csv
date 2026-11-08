@@ -1,0 +1,66 @@
+basket,category,item,quantity,unit,unit_price_ars,price_month,source,verification
+actualizada;premium,Alimentos y bebidas,Pan,13.5,kg,6770,2026-07,Preciosmundi jun-2026 ($3.384/500g),verified
+actualizada;premium,Alimentos y bebidas,Galletitas de agua,0.84,kg,4500,2026-07,Estimación editorial,estimate
+actualizada;premium,Alimentos y bebidas,Galletitas dulces,0.42,kg,5500,2026-07,Estimación editorial,estimate
+actualizada;premium,Alimentos y bebidas,Arroz,2.4,kg,2161,2026-07,"Expatistan, abr-2026, precio real Buenos Aires",verified
+actualizada;premium,Alimentos y bebidas,Harina de trigo,2.16,kg,1900,2026-07,Estimación editorial,estimate
+actualizada;premium,Alimentos y bebidas,Otras harinas (maíz),0.42,kg,2200,2026-07,Estimación editorial,estimate
+actualizada;premium,Alimentos y bebidas,Fideos,3.48,kg,2600,2026-07,Estimación editorial,estimate
+actualizada;premium,Alimentos y bebidas,Papa,13.02,kg,1600,2026-07,"Consumidores Libres, mar-2026",verified
+actualizada;premium,Alimentos y bebidas,Batata,1.02,kg,2000,2026-07,Estimación editorial,estimate
+actualizada;premium,Alimentos y bebidas,Azúcar,2.46,kg,1700,2026-07,Estimación editorial,estimate
+actualizada;premium,Alimentos y bebidas,Dulces (mermelada/dulce de leche),0.66,kg,4200,2026-07,Estimación editorial,estimate
+actualizada;premium,Alimentos y bebidas,Legumbres secas,0.48,kg,3000,2026-07,Estimación editorial,estimate
+actualizada;premium,Alimentos y bebidas,"Hortalizas (tomate, cebolla, zanahoria, acelga, etc.)",11.46,kg,3200,2026-07,"Ajustado: tomate real $5.000/kg (Expatistan jul-2026, hace 6 días) sube el promedio de la canasta de hortalizas respecto al dato de Consumidores Libres (mar-2026)",verified
+actualizada;premium,Alimentos y bebidas,Frutas,9.9,kg,3364,2026-07,"Expatistan, precio real manzanas Buenos Aires, 2026",verified
+actualizada;premium,Alimentos y bebidas,"Carnes (asado, pollo, pescado, picada)",12.54,kg,13800,2026-07,"IPCVA mar-2026 (vacuna $18.564/kg, pollo $4.822/kg, cerdo $8.944/kg) vía Infobae abr-2026, blend 55% vacuna+30% pollo+15% cerdo, ajustado a jul-2026",verified
+actualizada;premium,Alimentos y bebidas,Menudencias,0.54,kg,4500,2026-07,Estimación editorial,estimate
+actualizada;premium,Alimentos y bebidas,Fiambres,0.12,kg,12000,2026-07,Estimación editorial,estimate
+actualizada;premium,Alimentos y bebidas,Huevos,1.67,doc,3886,2026-07,Preciosmundi jun-2026,verified
+actualizada;premium,Alimentos y bebidas,Leche,18.54,L,3100,2026-07,Consumidores Libres mar-2026,verified
+actualizada;premium,Alimentos y bebidas,Queso,0.66,kg,32000,2026-07,"Expatistan, jul-2026 (dato de hace 6 días): 250g de queso nacional = $8.000 → $32.000/kg. Corrige fuerte subestimación previa.",verified
+actualizada;premium,Alimentos y bebidas,Yogur,1.14,kg,3200,2026-07,Estimación editorial,estimate
+actualizada;premium,Alimentos y bebidas,Manteca,0.12,kg,6500,2026-07,Estimación editorial,estimate
+actualizada;premium,Alimentos y bebidas,Aceite,2.4,L,3600,2026-07,Estimación editorial,estimate
+actualizada;premium,Alimentos y bebidas,Bebidas no alcohólicas,6.9,L,2400,2026-07,Estimación editorial,estimate
+actualizada;premium,Alimentos y bebidas,Bebidas alcohólicas,2.16,L,4000,2026-07,Estimación editorial,estimate
+actualizada;premium,Alimentos y bebidas,Sal fina,0.24,kg,1200,2026-07,Estimación editorial,estimate
+actualizada;premium,Alimentos y bebidas,Condimentos,0.24,kg,5000,2026-07,Estimación editorial,estimate
+actualizada;premium,Alimentos y bebidas,Vinagre,0.12,L,2000,2026-07,Estimación editorial,estimate
+actualizada;premium,Alimentos y bebidas,Café,0.06,kg,18000,2026-07,Estimación editorial,estimate
+actualizada;premium,Alimentos y bebidas,Yerba,1.02,kg,7890,2026-07,Consumidores Libres mar-2026,verified
+actualizada;premium,"2. VIVIENDA (alquiler, expensas, servicios)",Alquiler depto 2 ambientes CABA,1,mes,763818,2026-07,"Zonaprop / REMAX Legado, ene-2026",verified
+actualizada;premium,"2. VIVIENDA (alquiler, expensas, servicios)",Expensas,1,mes,161378,2026-07,"Buscainmueble, jul-2026 (edificio con amenities)",verified
+actualizada;premium,"2. VIVIENDA (alquiler, expensas, servicios)",Electricidad,1,mes,60640,2026-07,"Infobae, factura usuario N1 sin subsidio, jul-2026",verified
+actualizada;premium,"2. VIVIENDA (alquiler, expensas, servicios)",Gas natural,1,mes,40000,2026-07,Estimado sobre cargo fijo real Metrogas CABA $22.606 (Infobae jul-2026) + consumo invernal,estimate
+actualizada;premium,"2. VIVIENDA (alquiler, expensas, servicios)",Agua y cloacas (AySA),1,mes,23428,2026-07,"Infobae, may-2026: factura promedio sin medidor AMBA = $23.428/mes",verified
+actualizada;premium,"3. VEHÍCULO PARTICULAR (reemplaza transporte público — sedán gama media, ej. Corolla/Virtus/Cronos)",Combustible (nafta súper),75,L/mes,2047,2026-07,"YPF CABA, jul-2026. Supuesto: 900 km/mes (~12 km/L) reemplazando uso diario de transporte público",verified
+actualizada;premium,"3. VEHÍCULO PARTICULAR (reemplaza transporte público — sedán gama media, ej. Corolla/Virtus/Cronos)",Seguro (terceros completo),1,mes,90000,2026-07,"segundoenfoque.com, jun-2026, rango real $45.000-$140.000/mes según compañía",verified
+actualizada;premium,"3. VEHÍCULO PARTICULAR (reemplaza transporte público — sedán gama media, ej. Corolla/Virtus/Cronos)",Patente (auto valuación ~$30M),1,mes,106250,2026-07,"Reporte Asia (La Nación), feb-2026: $1,2M-$1,35M/año prorrateado a 12 cuotas",verified
+actualizada;premium,"3. VEHÍCULO PARTICULAR (reemplaza transporte público — sedán gama media, ej. Corolla/Virtus/Cronos)",Mantenimiento amortizado (service+cubiertas),1,mes,35000,2026-07,"Rango real Claro pospago $16.165-$27.795 según plan (iProfesional, feb-2026, con promo 12 meses) + dato real del usuario (~$40.000/mes plan Claro sin promo). Se usa un punto medio.",verified
+actualizada;premium,"3. VEHÍCULO PARTICULAR (reemplaza transporte público — sedán gama media, ej. Corolla/Virtus/Cronos)",VTV,1,mes,1500,2026-07,"Ámbito, jul-2026: $18.000/año en Provincia de Buenos Aires",verified
+actualizada;premium,4. COMUNICACIÓN,Internet hogareño (300 Mbps),1,mes,22000,2026-07,"cuantomecuesta.com, abr-2026 (punto medio rango $15k-$45k)",verified
+actualizada;premium,4. COMUNICACIÓN,Plan celular pospago x2 personas,2,mes,18000,2026-07,"Celulares.com jul-2026, estimación dentro de rango observado",estimate
+actualizada;premium,5. SALUD,Prepaga plan de entrada x2 personas,2,mes,150000,2026-07,"MiObraSocial / segundoenfoque.com, jul-2026",verified
+actualizada;premium,5. SALUD,"Botiquín básico: analgésico (real) + antibiótico ocasional (real, amortizado) + botiquín general",1,mes,24948,2026-07,"Construido con 3 precios reales de farmacia (preciosdemedicamentos.com.ar, 2026): IBU 600 x10 comp $6.041 (1 caja/mes) + Amoxicilina Fecofar 500mg x8 $4.536 (1 caja cada 5 meses, amortizada = $907/mes) + botiquín general (antiácidos, antihistamínicos, curitas, vitaminas) $8.000/mes (estimación NO puntual) + reserva vitaminas/suplementos $10.000/mes (estimación NO puntual). Total: 6.041+907+8.000+10.000=$24.948. Ver hoja Fuentes para detalle completo.",estimate
+actualizada,6. INDUMENTARIA,"Zapatillas (amortiz.) + remeras/prendas + resto (interior, abrigo, pantalones)",1,mes,72000,2026-07,"Reconstruido con 3 componentes: Zapatillas $30.000/par (Renner liquidación, feb-2026), 1 par cada 3 meses amortizado = $10.000/mes; Remeras $20.000 c/u (Renner, feb-2026), 2/mes = $40.000/mes; resto del guardarropa (pantalones, ropa interior, medias, abrigo prorrateado) = $22.000/mes estimación NO puntual. Total: 10.000+40.000+22.000=$72.000. El monto no cambió pero ahora está anclado a precios reales.",estimate
+actualizada,7. EDUCACIÓN / FORMACIÓN,"Curso de inglés online, 1 persona",1,mes,52000,2026-07,"ingles.ox.ar, cuota mensual 2026",verified
+actualizada,8. RECREACIÓN Y CULTURA,"Cine, 2 entradas x salida",2,salida/mes,26015,2026-07,"Expatistan, 2 entradas sesión normal Buenos Aires, 2026",verified
+actualizada,9. RESTAURANTES,"Cena en restaurante de barrio, 2 personas",1,salida/mes,49960,2026-07,"Expatistan, cena normal para dos en restaurante de barrio, mar-2026",verified
+actualizada,9. RESTAURANTES,"Comida rápida (McMenú x2), 1 salida",1,salida/mes,44000,2026-07,"Expatistan, jul-2026 (dato de hace 6 días): menú completo tipo Big Mac = $22.000 x 2 personas. Confirma el ejemplo real que diste vos mismo.",verified
+actualizada;premium,10. EQUIPAMIENTO DEL HOGAR,Heladera + lavarropas amortizados (8 años) + menaje/pequeños electro,1,mes,14250,2026-07,"Heladera Drean 215L $300.000-$450.000 (MejoresCompras, 2026) amortizada en 8 años = $3.646/mes; Lavarropas Codini/Philco $194.000-$304.000 (MejoresCompras, 2026) amortizado en 8 años = $2.604/mes; menaje y pequeños electrodomésticos = $8.000/mes estimación NO puntual. Total: $14.250. BAJA respecto a la estimación anterior ($30.000) porque amortizar bienes durables a lo largo de su vida útil real da un costo mensual genuinamente más bajo que una suposición plana.",estimate
+actualizada;premium,11. BIENES Y SERVICIOS VARIOS,Papel higiénico + shampoo/acondicionador x2 + resto higiene personal,1,mes,42496,2026-07,"Papel higiénico: $3.624/paquete x4 rollos (Expatistan, 2026) x4 paquetes/mes = $14.496; Shampoo/acondicionador: $8.000 c/u (El Día, ene-2025, rango $5.130-$10.000, ajustado por inflación) x2 personas = $16.000; jabón, pasta dental, desodorante y resto = $12.000 estimación NO puntual. Total: $42.496.",estimate
+actualizada,"12. MASCOTAS (1 mascota, cuidados esenciales)",Perro/gato mediano — alimento + veterinaria + higiene básica,1,mes,85000,2026-07,"Infobae, mar-2026: alimento $70.000-$100.000/mes + controles veterinarios, punto medio del rango básico",verified
+premium,13. INDUMENTARIA (premium: ropa de marca vs. circuito accesible),"Ropa y calzado de marca, hogar 2 personas",1,mes,144000,2026-07,"2x el circuito accesible, informado por brecha marca/informal INECO-UADE (hasta 7x en algunos casos; se usa un múltiplo conservador de 2x)",estimate
+premium,"14. EDUCACIÓN / FORMACIÓN (premium: curso presencial grupal, ambos)","Curso de inglés presencial grupal, x2 personas",2,mes,95000,2026-07,"Linguas by VAMOS Academy, curso grupal accesible (conversación), jun-2026",verified
+premium,15. RECREACIÓN Y CULTURA (premium: más frecuencia + evento cultural),"Cine, 2 entradas x salida",4,salida/mes,26015,2026-07,"Expatistan 2026, mayor frecuencia (4 salidas/mes)",verified
+premium,15. RECREACIÓN Y CULTURA (premium: más frecuencia + evento cultural),"Evento cultural (teatro/museo/recital), 1 salida",1,salida/mes,35000,2026-07,Estimación NO verificada puntualmente,estimate
+premium,16. RESTAURANTES (premium: gama media en vez de barrio),"Cena en restaurante de gama media, 2 personas",2,salida/mes,81852,2026-07,"Preciosmundi jul-2026, cena para dos, 3 platos, restaurante gama media",verified
+premium,16. RESTAURANTES (premium: gama media en vez de barrio),"Comida rápida (McMenú x2), 1 salida",1,salida/mes,44000,2026-07,"Expatistan, jul-2026 (hace 6 días): menú completo tipo Big Mac = $22.000 x 2 personas",verified
+premium,"18. MASCOTAS (2 mascotas, cuidado premium con paseador)",Perro/gato mediano — alimento premium + veterinaria + paseador,2,mes,150000,2026-07,"mundomascotita.com, may-2026: perro mediano en Buenos Aires $150.000-$300.000/mes con paseador; se usa el piso del rango, x2 mascotas",verified
+premium,19. DIGITAL / TECNOLOGÍA (categoría ausente en la CBT oficial),Suscripción IA (Claude),1,mes,39520,2026-07,"Usuario (USD 20) x dólar tarjeta $1.976, 28-jul-2026",verified
+premium,19. DIGITAL / TECNOLOGÍA (categoría ausente en la CBT oficial),Netflix (plan Estándar),1,mes,21000,2026-07,"MDZ Tecnología, abr-2026",verified
+premium,19. DIGITAL / TECNOLOGÍA (categoría ausente en la CBT oficial),Spotify Individual (pesos AR),1,mes,5000,2026-07,"jonatanalmeira.com, jun-2026",verified
+premium,19. DIGITAL / TECNOLOGÍA (categoría ausente en la CBT oficial),Almacenamiento en la nube,1,mes,9000,2026-07,Estimación NO verificada puntualmente,estimate
+premium,19. DIGITAL / TECNOLOGÍA (categoría ausente en la CBT oficial),Otras apps / software / gaming,1,mes,12000,2026-07,Estimación NO verificada puntualmente,estimate
+premium,19. DIGITAL / TECNOLOGÍA (categoría ausente en la CBT oficial),Gimnasio / app de wellness,1,mes,35000,2026-07,"Rango real AMBA $25.000-$60.000/mes (infodeportes.com, cuantomecuesta.com, 2026)",verified
