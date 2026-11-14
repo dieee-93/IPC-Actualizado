@@ -1,5 +1,7 @@
 # Metodología (v0.1 — decisiones tomadas y abiertas)
 
+> **Nota:** este archivo es el borrador inicial. La metodología vigente se documenta por bloques en `docs/metodologia/` (ver `00_registro_de_decisiones.md`).
+
 ## Decidido (provisorio)
 - **Fórmula:** canasta fija tipo Lowe/Laspeyres: `I(t) = 100 · Σ qᵢ·pᵢ(t) / Σ qᵢ·pᵢ(base)`. Igual que el INDEC, para poder comparar. No mide "costo de vida" (no captura sustitución).
 - **Hogar de referencia:** 2 adultos (30–60 años), CABA/GBA, depto 2 ambientes en alquiler, auto gama media, 1 mascota (Actualizada) o 2 (Premium).

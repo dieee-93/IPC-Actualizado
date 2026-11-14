@@ -16,7 +16,8 @@ data/raw/          snapshots mensuales de precios, con fecha (NO se pueden recon
 data/processed/    series calculadas
 src/               cálculo del índice
 tests/             pruebas (los totales deben coincidir con la planilla original)
-docs/              metodología, decisiones y referencias
+docs/metodologia/  metodología por bloques y registro de decisiones (con citas)
+docs/fuentes/      manuales y documentos de referencia (PDF)
 ```
 
 ## Uso rápido
